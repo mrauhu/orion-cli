@@ -1,23 +1,26 @@
 {
-  "name": "orion-cli",
+  "name": "orionx-cli",
   "version": "0.1.5",
-  "description": "Console scaffolding and development tool for Meteor Projects",
+  "description": "Console scaffolding and development tool for Meteor Projects. Cutting edge fork",
   "main": "notExistant.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/matteodem/orion-cli"
+    "url": "https://github.com/mrauhu/orionx-cli"
   },
   "bin": {
-    "orion": "./bin/orion"
+    "orionx": "./bin/orion"
   },
   "author": "Matteo De Micheli",
+  "contributors": [
+    "Sergey N <mrauhu@yandex.ru>"
+  ],
   "bugs": {
-    "url": "https://github.com/matteodem/orion-cli/issues"
+    "url": "https://github.com/mrauhu/orionx-cli/issues"
   },
-  "homepage": "https://github.com/matteodem",
+  "homepage": "https://github.com/mrauhu/orionx-cli",
   "dependencies": {
     "colors": "^1.0.3",
     "fs-extra": "^0.12.0",
