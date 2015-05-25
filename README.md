@@ -4,6 +4,17 @@ orionx-cli
 > Console scaffolding and development tool for Meteor Apps.
 > Cutting edge fork
 
+## Contributing
+
+Feel free to [contribute](https://guides.github.com/activities/contributing-to-open-source/#contributing).
+Please make pull requests to the `develop` branch.
+
+### Branches
+
+* `develop` - cutting edge branch for the pull requests;
+* `orionx` - this fork base branch, merged with `develop` branch.
+Key difference with `master` branch it is usage name `orionx` in the files `README.md` and `package.json`;
+* `master` - [orion-cli](https://github.com/matteodem/orion-cli) master branch
 
 ## How to install
 
